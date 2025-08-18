@@ -4,8 +4,6 @@ public class main {
 <<<<<<< Updated upstream
         System.out.println("Hola, esto es el Repositorio");
 =======
-        System.out.println("DSAPKJDASJKLÑADSJKLÑJKLÑDAS");gfhfghfghfhfghfhfghfgh
-        System.out.println("holaa perri");
->>>>>>> Stashed changes
+        System.out.println("Hola, esto es el Repositorio de GitHub");
     }
 }
